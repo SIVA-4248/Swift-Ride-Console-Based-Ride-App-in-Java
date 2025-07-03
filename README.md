@@ -1,7 +1,7 @@
 # Swift-Ride-Console-Based-Ride-App-in-Java
 RapiSim is a Java-based console application that simulates a simplified version of the Rapido ride-booking platform. This mini project demonstrates how core Object-Oriented Programming (OOP) concepts can be used to design a real-world system like an app for booking two-wheeler rides.
 
-# 🚀 RapiSim – Rapido Ride Booking Simulator in Java
+# 🚀 swift-ride -> Rapido Ride Booking Simulator in Java
 
 RapiSim is a **console-based ride booking application** developed in Java. It simulates the functionality of real-world platforms like **Rapido** by allowing users to book rides, make payments, give feedback, and view profile details using core Java OOP concepts.
 
